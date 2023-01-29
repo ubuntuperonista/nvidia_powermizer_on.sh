@@ -1,2 +1,4 @@
 # nvidia_powermizer_on.sh
-Set the nNidia PowerMizer ON at start on Ubuntu.
+Sets the nNidia PowerMizer ON during Ubuntu graphical desktop startup.
+
+Add this to your ~/.xprofile.
